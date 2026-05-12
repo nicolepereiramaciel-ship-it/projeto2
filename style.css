@@ -29,3 +29,8 @@ padding: 16px
     width: 593px;
     height: 352;
 }
+.pincipal{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
